@@ -1,0 +1,56 @@
+Tentradadatos2
+v7
+r0
+t355687095.320388
+cCheck dependencies
+cCompileC build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2
+t2
+s0
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/entradadatos2.LinkFileList
+c000000004F8323370000000000000092
+t1333994295
+s146
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c
+c000000004F83233700000000000000AC
+t1333994295
+s172
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355687095#355687095#0(0"0(0#1#0"8620439456#0"0#
+
+CCompileC build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s355687095.294296
+e355687095.320337
+r0
+xCompileC
+xbuild/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o
+x/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c355687095#355687095#0(596"/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c: In function 'main':/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c:5: error: 'i' undeclared (first use in this function)/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c:5: error: (Each undeclared identifier is reported only once/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c:5: error: for each function it appears in.)/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c:7: error: 'dato' undeclared (first use in this function)2(4@43"'i' undeclared (first use in this function)355687095#93#126#0(6@71"/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c355687095#5#0#5#0#43"'*' undeclared (first use in this function)0(4@46"'dato' undeclared (first use in this function)355687095#467#129#0(6@71"/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c355687095#7#0#7#0#43"'*' undeclared (first use in this function)0(0#0#71"/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c8029405159545332736#1686"    cd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-generated-files.hmap" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-own-target-headers.hmap" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-all-target-headers.hmap" -iquote "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-project-headers.hmap" "-F/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/include" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/DerivedSources/x86_64" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/DerivedSources" -c "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" -o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2" normal x86_64
+r0
+

@@ -1,0 +1,64 @@
+Tentradadatos2
+v7
+r0
+t355687886.177786
+cCheck dependencies
+cCompileC build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2
+t1333995086
+s9200
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/entradadatos2.LinkFileList
+c000000004F8323370000000000000092
+t1333994295
+s146
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o
+t1333995086
+s3480
+
+N/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c
+c000000004F83264E0000000000000195
+t1333995086
+s405
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355687886#355687886#0(0"0(0#1#0"8622102720#0"0#
+
+CCompileC build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s355687886.129499
+e355687886.167257
+r1
+xCompileC
+xbuild/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o
+x/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c355687886#355687886#0(0"0(0#0#71"/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c8621791456#1686"    cd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-generated-files.hmap" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-own-target-headers.hmap" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-all-target-headers.hmap" -iquote "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/entradadatos2-project-headers.hmap" "-F/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/include" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/DerivedSources/x86_64" "-I/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/DerivedSources" -c "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" -o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2" normal x86_64
+s355687886.167313
+e355687886.177747
+r1
+xLd
+x/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2
+xnormal
+xx86_64
+lSLF07#2@95"Link /Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2355687886#355687886#0(0"0(0#0#0"8622744928#662"    cd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug" "-F/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug" -filelist "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/entradadatos2.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2"0#
+
