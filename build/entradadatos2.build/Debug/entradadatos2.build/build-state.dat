@@ -1,7 +1,7 @@
 Tentradadatos2
 v7
 r0
-t355687886.177786
+t461092419.869006
 cCheck dependencies
 cCompileC build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
 cLd "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/build/Debug/entradadatos2" normal x86_64
@@ -37,7 +37,7 @@ i<stdio.h>
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies355687886#355687886#0(0"0(0#1#0"8622102720#0"0#
+lSLF07#2@18"Check dependencies461092419#461092419#0(0"0(0#1#0"17196451584#0"0#
 
 CCompileC build/entradadatos2.build/Debug/entradadatos2.build/Objects-normal/x86_64/main.o "/Users/joseramonnovoaciveira/Documents/programas C/entradadatos2/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
 s355687886.129499
